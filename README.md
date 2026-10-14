@@ -83,24 +83,6 @@ Meu **TCC na ETEC** foi o projeto que me colocou de vez no código, e ele será 
 
 <br>
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-## `> atividade`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y4kyz&bg_color=0D1117&color=A855F7&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&title_color=A855F7" alt="Activity Graph" width="100%" />
-</div>
-
-<br>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-## `> conquistas`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=y4kyz&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <div align="center">
   <picture>
